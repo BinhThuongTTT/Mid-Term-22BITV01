@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ggbin\\source\\repos\\LAB04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|c:\\users\\ggbin\\source\\repos\\lab04\\lab04\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|solutionrelative:lab04\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|c:\\users\\ggbin\\source\\repos\\lab04\\lab04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|solutionrelative:lab04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|c:\\users\\ggbin\\source\\repos\\lab04\\lab04\\models\\checkemployeeno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|solutionrelative:lab04\\models\\checkemployeeno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|c:\\users\\ggbin\\source\\repos\\lab04\\lab04\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|solutionrelative:lab04\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|c:\\users\\ggbin\\source\\repos\\lab04\\lab04\\models\\birthdatecheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|solutionrelative:lab04\\models\\birthdatecheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|c:\\users\\ggbin\\source\\repos\\lab04\\lab04\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665E9844-04A8-4DA7-B213-4FDF80F4814D}|LAB04\\LAB04.csproj|solutionrelative:lab04\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB04\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LAB04\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T04:43:31.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckEmployeeNo.cs",
+              "DocumentMoniker": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Models\\CheckEmployeeNo.cs",
+              "RelativeDocumentMoniker": "LAB04\\Models\\CheckEmployeeNo.cs",
+              "ToolTip": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Models\\CheckEmployeeNo.cs",
+              "RelativeToolTip": "LAB04\\Models\\CheckEmployeeNo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:22:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BirthDateCheckAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Models\\BirthDateCheckAttribute.cs",
+              "RelativeDocumentMoniker": "LAB04\\Models\\BirthDateCheckAttribute.cs",
+              "ToolTip": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Models\\BirthDateCheckAttribute.cs",
+              "RelativeToolTip": "LAB04\\Models\\BirthDateCheckAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:10:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "LAB04\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "LAB04\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T03:43:51.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LAB04\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Models\\Employee.cs",
+              "RelativeToolTip": "LAB04\\Models\\Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:03:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LAB04\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ggbin\\source\\repos\\LAB04\\LAB04\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LAB04\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:18:53.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
