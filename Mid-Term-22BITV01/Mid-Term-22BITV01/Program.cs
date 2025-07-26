@@ -1,13 +1,15 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Mid_Term_22BITV01.Data;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<Mid_Term_22BITV01Context>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Mid_Term_22BITV01Context") ?? throw new InvalidOperationException("Connection string 'Mid_Term_22BITV01Context' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
-builder.Services.AddDbContext<EmployeeDB>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
